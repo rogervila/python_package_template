@@ -1,2 +1,2 @@
 [run]
-include = package_template/**
+include = python_pypi_package_template/**
