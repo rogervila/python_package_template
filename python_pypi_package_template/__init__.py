@@ -2,5 +2,6 @@
 
 
 class Example:
-    def run(self) -> bool:
+    @staticmethod
+    def run() -> bool:
         return True

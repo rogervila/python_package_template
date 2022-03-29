@@ -1,10 +1,10 @@
 import unittest
-from package_template import Example
+from python_pypi_package_template import Example
 
 
 class test_example(unittest.TestCase):
     def test_example(self):
-        self.assertTrue(Example().run())
+        self.assertTrue(Example.run())
 
 
 if __name__ == '__main__':
