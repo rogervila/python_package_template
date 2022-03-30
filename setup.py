@@ -13,8 +13,8 @@ setup(
     long_description_content_type='text/markdown',
     author='Roger Vilà',
     author_email='rogervila@me.com',
-    url='https://github.com/rogervila/python_pypi_package_template',
-    download_url='https://github.com/rogervila/python_pypi_package_template/archive/CURRENT_VERSION.tar.gz',
+    url='https://github.com/rogervila/python_package_template',
+    download_url='https://github.com/rogervila/python_package_template/archive/CURRENT_VERSION.tar.gz',
     keywords=['package template', 'project template', 'pypi template'],
     install_requires=[],
     classifiers=[
