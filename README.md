@@ -1,10 +1,11 @@
 # Python PYPI Package Template
 
-<p align="center"><img height="200" alt="rogervila/python_package_template" src="https://rogervila.es/static/img/python_package_template.png" /></p>
+<p align="center"><img height="200" alt="python-pypi-package-template" src="https://rogervila.es/static/img/python_package_template.png" /></p>
 
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=rogervila_python_package_template&metric=coverage)](https://sonarcloud.io/dashboard?id=rogervila_python_package_template)
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=rogervila_python_package_template&metric=alert_status)](https://sonarcloud.io/dashboard?id=rogervila_python_package_template)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=rogervila_python_package_template&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=rogervila_python_package_template)
+
+![PyPI - Status](https://img.shields.io/pypi/status/python-pypi-package-template)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/python-pypi-package-template)
+
 
 Python PYPI package template.
 
